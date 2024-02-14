@@ -1,4 +1,4 @@
-СНОВА РЕШИТЬ ЗАДАЧИ [ОТСЮДА]([https://education.yandex.ru/handbook/python/article/uslovnyy-operator](https://education.yandex.ru/handbook/python/article/cikly)) ВНИЗУ СТРАНИЦЫ и приложить скриншот решения каждой задачи.
+СНОВА РЕШИТЬ ЗАДАЧИ [ОТСЮДА](https://education.yandex.ru/handbook/python/article/cikly) ВНИЗУ СТРАНИЦЫ и приложить скриншот решения каждой задачи.
 
 Для этого скопируй изображение и просто вставь сюда, когда будешь в формате редактирования. Не забудь после этого нажать "Commit changes..."
 
