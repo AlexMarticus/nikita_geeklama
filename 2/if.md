@@ -1,4 +1,4 @@
-РЕШИТЬ ЗАДАЧИ [ОТСЮДА](https://education.yandex.ru/handbook/python/article/uslovnyy-operator) и приложить скриншот решения каждой задачи.
+РЕШИТЬ ЗАДАЧИ [ОТСЮДА](https://education.yandex.ru/handbook/python/article/uslovnyy-operator) ВНИЗУ СТРАНИЦЫ и приложить скриншот решения каждой задачи.
 
 Для этого скопируй изображение и просто вставь сюда, когда будешь в формате редактирования. Не забудь после этого нажать "Commit changes..."
 
