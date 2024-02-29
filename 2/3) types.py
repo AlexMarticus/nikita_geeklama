@@ -41,6 +41,6 @@ print(f"{mark}+ баллов")
 score1 = 50.5648
 score2 = 23.5501
 score3 = 96.560
-print()
+print(f"{int(score1)}-{int(score2)}-{int(score3/10)}")
 # требуемый вывод:
-# 50-23-96
+# 50-23-9
