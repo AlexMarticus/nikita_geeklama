@@ -27,18 +27,22 @@ ftvy = ((), [], 4)
 sample = ["abc", "xyz", "aba", 1221]
 # требуемый вывод:
 # 1221
+print(sample[3], sample[-1])
 
 
 # Допишите код, что бы вывести расширенный список.
 sample = ["Green", "White", "Black"]
-<здесь дописать>
+#sample.append("Red")
+#sample.append("Pink")
+#sample.append("Yellow")
+sample.insert(0, "Red")
+sample.extend(("Pink", "Yellow"))
 print(sample)
 # требуемый вывод:
 # ["Red", "Green", "White", "Black", "Pink", "Yellow"]
 
-
 # Исправьте ошибки в коде, что бы посчитать сумму элементов в списке.
-sample = ["11", "33", "50"]
-print(sample.sum())
+sample = [11, 33, 50]
+print(sum(sample))
 # требуемый вывод:
 # 94
