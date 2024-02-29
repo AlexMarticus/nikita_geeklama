@@ -1,6 +1,7 @@
+#два str один int один float один bool один list один tuple
 # Создайте пустой список, определите его тип и выведите в консоль.
-answer_1=
-print(answer_1)
+answer_1= ["apple", "ban", 1, 2.5, False, [], () ]
+print(type(answer_1[-1]))
 # требуемый вывод:
 # <class 'list'>
 
